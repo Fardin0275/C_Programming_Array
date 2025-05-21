@@ -1,1 +1,1 @@
-  arr[i]+=arr[i];
+ //  printf("%d\n",a[j]);

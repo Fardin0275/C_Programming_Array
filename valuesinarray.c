@@ -10,6 +10,6 @@ int main (){
 }
             printf("the value store into the array reverse are :");
     for(int i=n-1;i>=0;i--){
-        printf("%d",arr[i]);
+        printf("%d,",arr[i]);
     }
     }
